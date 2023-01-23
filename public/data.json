@@ -1,0 +1,1157 @@
+[
+    {
+      "_id": "63ce896c42875e93f9aa920a",
+      "index": 0,
+      "name": "Parrish Salazar",
+      "email": "parrishsalazar@volax.com",
+      "phone": "+1 (950) 560-3112",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896c2661349e1f5b3bdd",
+            "name": "ISOLOGIX",
+            "cost": 345
+          },
+          {
+            "id": "63ce896c7ace4f193dd3a763",
+            "name": "FLEETMIX",
+            "cost": 325
+          },
+          {
+            "id": "63ce896c46f7be6381796745",
+            "name": "GRONK",
+            "cost": 220
+          },
+          {
+            "id": "63ce896cc86fbc22895c189d",
+            "name": "QUOTEZART",
+            "cost": 352
+          },
+          {
+            "id": "63ce896c666af3889c54753e",
+            "name": "ESCHOIR",
+            "cost": 257
+          },
+          {
+            "id": "63ce896cb8edf1e3a7fc57b9",
+            "name": "ENORMO",
+            "cost": 289
+          },
+          {
+            "id": "63ce896cd4fe8f7a012ccd52",
+            "name": "BLEEKO",
+            "cost": 208
+          },
+          {
+            "id": "63ce896c67fa629cdeff7023",
+            "name": "MEDESIGN",
+            "cost": 150
+          },
+          {
+            "id": "63ce896cde016b5363db51cb",
+            "name": "TETRATREX",
+            "cost": 61
+          },
+          {
+            "id": "63ce896c3745882ddca03849",
+            "name": "FUTURIZE",
+            "cost": 375
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896cf0b296df5c6a3fa7",
+            "name": "TECHMANIA",
+            "cost": 20
+          },
+          {
+            "id": "63ce896c3131a4b390e6f0cc",
+            "name": "GAZAK",
+            "cost": 70
+          },
+          {
+            "id": "63ce896cab1380228d695be8",
+            "name": "ZILCH",
+            "cost": 329
+          },
+          {
+            "id": "63ce896c33b9b891bc33a5f1",
+            "name": "BISBA",
+            "cost": 309
+          },
+          {
+            "id": "63ce896c1e62389b50d46b78",
+            "name": "NETUR",
+            "cost": 290
+          },
+          {
+            "id": "63ce896cced7dee4a8c96990",
+            "name": "FROSNEX",
+            "cost": 298
+          },
+          {
+            "id": "63ce896c4a1ab3978d769c8a",
+            "name": "ENTROFLEX",
+            "cost": 76
+          },
+          {
+            "id": "63ce896c1b4cfb1ae0704134",
+            "name": "ZILLIDIUM",
+            "cost": 324
+          },
+          {
+            "id": "63ce896c4d306ca78bcaf188",
+            "name": "SCHOOLIO",
+            "cost": 238
+          },
+          {
+            "id": "63ce896ce5045261317c7804",
+            "name": "MEMORA",
+            "cost": 381
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c2fe3a3565a6bdc54",
+            "name": "TWIIST",
+            "cost": 123
+          },
+          {
+            "id": "63ce896c0771fa22027e5188",
+            "name": "CUBIX",
+            "cost": 327
+          },
+          {
+            "id": "63ce896cd77df5b71900cc74",
+            "name": "ATGEN",
+            "cost": 60
+          },
+          {
+            "id": "63ce896cac69b14692733732",
+            "name": "PIVITOL",
+            "cost": 176
+          },
+          {
+            "id": "63ce896ce592faa3f86b24c3",
+            "name": "TASMANIA",
+            "cost": 72
+          },
+          {
+            "id": "63ce896ca3ceb7e585d06b42",
+            "name": "INTERLOO",
+            "cost": 393
+          },
+          {
+            "id": "63ce896c49499e79b6fdec66",
+            "name": "SLUMBERIA",
+            "cost": 58
+          },
+          {
+            "id": "63ce896c36612653ebdd4216",
+            "name": "QUILCH",
+            "cost": 84
+          },
+          {
+            "id": "63ce896c5037c374a3357454",
+            "name": "ROCKLOGIC",
+            "cost": 291
+          },
+          {
+            "id": "63ce896c7925b0ef8a91522e",
+            "name": "XERONK",
+            "cost": 78
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896c026d93adf4f72bc4",
+      "index": 1,
+      "name": "Downs Lara",
+      "email": "downslara@xeronk.com",
+      "phone": "+1 (877) 579-3095",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896ce32114dc2d77b7da",
+            "name": "EZENT",
+            "cost": 58
+          },
+          {
+            "id": "63ce896c2f1b94e82b2b4b82",
+            "name": "VIRVA",
+            "cost": 150
+          },
+          {
+            "id": "63ce896c1d2bc3c6671f2fbe",
+            "name": "TELEPARK",
+            "cost": 362
+          },
+          {
+            "id": "63ce896c184746d53aca7dd7",
+            "name": "ROCKYARD",
+            "cost": 153
+          },
+          {
+            "id": "63ce896c38498e003f475bb9",
+            "name": "PARCOE",
+            "cost": 318
+          },
+          {
+            "id": "63ce896cc1c429c09e568a67",
+            "name": "NETILITY",
+            "cost": 226
+          },
+          {
+            "id": "63ce896c1ecb9b73c66386d1",
+            "name": "VIAGREAT",
+            "cost": 324
+          },
+          {
+            "id": "63ce896c238da422d69e3799",
+            "name": "WARETEL",
+            "cost": 267
+          },
+          {
+            "id": "63ce896c0881fd676586825d",
+            "name": "BIOSPAN",
+            "cost": 165
+          },
+          {
+            "id": "63ce896c31717ea651db159f",
+            "name": "BLEENDOT",
+            "cost": 381
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896c57089880a2cc5550",
+            "name": "MUSAPHICS",
+            "cost": 28
+          },
+          {
+            "id": "63ce896c7a6721de27a883b9",
+            "name": "ISOPLEX",
+            "cost": 228
+          },
+          {
+            "id": "63ce896c3eab3d8c57c58814",
+            "name": "SPLINX",
+            "cost": 34
+          },
+          {
+            "id": "63ce896c61f33e0d923a4216",
+            "name": "QUILM",
+            "cost": 365
+          },
+          {
+            "id": "63ce896c35557d637b99ce38",
+            "name": "FURNAFIX",
+            "cost": 152
+          },
+          {
+            "id": "63ce896cd171c8e0b0ebac42",
+            "name": "EXTRO",
+            "cost": 193
+          },
+          {
+            "id": "63ce896c5bc56ecc48f72efc",
+            "name": "RECOGNIA",
+            "cost": 311
+          },
+          {
+            "id": "63ce896c015dd83aa1bd6033",
+            "name": "PRISMATIC",
+            "cost": 118
+          },
+          {
+            "id": "63ce896cfb86ef0755511dac",
+            "name": "FANGOLD",
+            "cost": 302
+          },
+          {
+            "id": "63ce896cc179a5f7ccba6167",
+            "name": "MAGNINA",
+            "cost": 56
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c7fcaf7f655554b51",
+            "name": "BRAINQUIL",
+            "cost": 353
+          },
+          {
+            "id": "63ce896cd9cfdfcfe2dc110c",
+            "name": "COASH",
+            "cost": 370
+          },
+          {
+            "id": "63ce896cfc24cb7e62d726c7",
+            "name": "MEDCOM",
+            "cost": 220
+          },
+          {
+            "id": "63ce896c4aed996178231f84",
+            "name": "OTHERWAY",
+            "cost": 163
+          },
+          {
+            "id": "63ce896c0ac67a8ed0dc3814",
+            "name": "CONFERIA",
+            "cost": 181
+          },
+          {
+            "id": "63ce896c147a0819c6c7eadf",
+            "name": "QUINEX",
+            "cost": 342
+          },
+          {
+            "id": "63ce896c9cada7f881454463",
+            "name": "ENERFORCE",
+            "cost": 44
+          },
+          {
+            "id": "63ce896ca9faad1cab462824",
+            "name": "XELEGYL",
+            "cost": 388
+          },
+          {
+            "id": "63ce896c0299af9b7ca64f0a",
+            "name": "INRT",
+            "cost": 353
+          },
+          {
+            "id": "63ce896cec03f5676f959d51",
+            "name": "CANDECOR",
+            "cost": 99
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896c6e7437541bf6191a",
+      "index": 2,
+      "name": "Pace Mcfadden",
+      "email": "pacemcfadden@candecor.com",
+      "phone": "+1 (931) 581-3880",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896c9719f84d007f9f9f",
+            "name": "FANFARE",
+            "cost": 259
+          },
+          {
+            "id": "63ce896c3338511e56683795",
+            "name": "CEDWARD",
+            "cost": 271
+          },
+          {
+            "id": "63ce896c3783735e967bcc37",
+            "name": "COMVOY",
+            "cost": 36
+          },
+          {
+            "id": "63ce896c56a4b02336b40c8b",
+            "name": "XUMONK",
+            "cost": 97
+          },
+          {
+            "id": "63ce896cdf5018a70ccc9fa8",
+            "name": "ACLIMA",
+            "cost": 392
+          },
+          {
+            "id": "63ce896c81dc4f4f61c2da7f",
+            "name": "LYRIA",
+            "cost": 122
+          },
+          {
+            "id": "63ce896c2f637a56595b9d67",
+            "name": "HATOLOGY",
+            "cost": 240
+          },
+          {
+            "id": "63ce896cf0055462f9c92fa5",
+            "name": "RODEOMAD",
+            "cost": 307
+          },
+          {
+            "id": "63ce896cfd313864c428d995",
+            "name": "ADORNICA",
+            "cost": 268
+          },
+          {
+            "id": "63ce896c39abec1a1a600fc1",
+            "name": "OHMNET",
+            "cost": 20
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896c2c0cb0c2623d1e65",
+            "name": "ISOSPHERE",
+            "cost": 219
+          },
+          {
+            "id": "63ce896cfe50552706765005",
+            "name": "CUIZINE",
+            "cost": 293
+          },
+          {
+            "id": "63ce896c88c5eeaeecc1ce41",
+            "name": "ZOGAK",
+            "cost": 33
+          },
+          {
+            "id": "63ce896c82d8d7a6f74d8f2d",
+            "name": "KONGLE",
+            "cost": 216
+          },
+          {
+            "id": "63ce896c803d06fa3f7e1f5c",
+            "name": "CORMORAN",
+            "cost": 365
+          },
+          {
+            "id": "63ce896cbd34f52252207325",
+            "name": "NORSUL",
+            "cost": 394
+          },
+          {
+            "id": "63ce896cf78675b8c6a28ae3",
+            "name": "MARVANE",
+            "cost": 43
+          },
+          {
+            "id": "63ce896c8a98185bf3908591",
+            "name": "NITRACYR",
+            "cost": 156
+          },
+          {
+            "id": "63ce896c489c86669d8a39f2",
+            "name": "CALCU",
+            "cost": 317
+          },
+          {
+            "id": "63ce896c3016f0c07d1092fd",
+            "name": "PROSELY",
+            "cost": 392
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c32b8fff6ae29c089",
+            "name": "ECLIPTO",
+            "cost": 281
+          },
+          {
+            "id": "63ce896c4b4199e236c00073",
+            "name": "FREAKIN",
+            "cost": 92
+          },
+          {
+            "id": "63ce896c8f0bbc00b5cf87e1",
+            "name": "INSURETY",
+            "cost": 375
+          },
+          {
+            "id": "63ce896c416933f2956df22f",
+            "name": "MICRONAUT",
+            "cost": 374
+          },
+          {
+            "id": "63ce896c0f180ef533df15ce",
+            "name": "EVENTIX",
+            "cost": 129
+          },
+          {
+            "id": "63ce896c34379b528b9ffc1d",
+            "name": "AEORA",
+            "cost": 199
+          },
+          {
+            "id": "63ce896c77c88ff0450fbb68",
+            "name": "ZAGGLES",
+            "cost": 28
+          },
+          {
+            "id": "63ce896cf7875cac9c147c97",
+            "name": "CHORIZON",
+            "cost": 42
+          },
+          {
+            "id": "63ce896c418710c838a380b8",
+            "name": "VELITY",
+            "cost": 61
+          },
+          {
+            "id": "63ce896c863276a0983acaa5",
+            "name": "VICON",
+            "cost": 261
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896c2132cc8118be80b8",
+      "index": 3,
+      "name": "Ingrid Durham",
+      "email": "ingriddurham@vicon.com",
+      "phone": "+1 (866) 487-2029",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896cbfc9cef402cecd22",
+            "name": "PAPRICUT",
+            "cost": 87
+          },
+          {
+            "id": "63ce896c59d75dac2d64f742",
+            "name": "NEOCENT",
+            "cost": 188
+          },
+          {
+            "id": "63ce896ccfef430c77bbc4cc",
+            "name": "PULZE",
+            "cost": 295
+          },
+          {
+            "id": "63ce896c4408b83a59b2a0f1",
+            "name": "COMCUBINE",
+            "cost": 292
+          },
+          {
+            "id": "63ce896c2720f4f9d92c3323",
+            "name": "EBIDCO",
+            "cost": 70
+          },
+          {
+            "id": "63ce896c09c4efe1aa03e6b5",
+            "name": "ZENTRY",
+            "cost": 175
+          },
+          {
+            "id": "63ce896c8dd96cb048058f89",
+            "name": "LUMBREX",
+            "cost": 181
+          },
+          {
+            "id": "63ce896cdbd3816e6eb0f759",
+            "name": "EVIDENDS",
+            "cost": 397
+          },
+          {
+            "id": "63ce896c40f1523a76c657d4",
+            "name": "ORBIN",
+            "cost": 216
+          },
+          {
+            "id": "63ce896c212632e9a3f4ab49",
+            "name": "PROTODYNE",
+            "cost": 78
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896c88a11319b9c0b486",
+            "name": "MUSANPOLY",
+            "cost": 154
+          },
+          {
+            "id": "63ce896c90eba49dd14a99e0",
+            "name": "VERTIDE",
+            "cost": 53
+          },
+          {
+            "id": "63ce896cb4b1363c622119fc",
+            "name": "CODAX",
+            "cost": 100
+          },
+          {
+            "id": "63ce896cf7124169982b537e",
+            "name": "PETIGEMS",
+            "cost": 278
+          },
+          {
+            "id": "63ce896c72982ed3c274a1d7",
+            "name": "TEMORAK",
+            "cost": 87
+          },
+          {
+            "id": "63ce896c28258946800d051d",
+            "name": "ISOLOGIA",
+            "cost": 353
+          },
+          {
+            "id": "63ce896c6d35c624ab461e4c",
+            "name": "ZENCO",
+            "cost": 241
+          },
+          {
+            "id": "63ce896ca84d9a6775d24790",
+            "name": "ZAPPIX",
+            "cost": 260
+          },
+          {
+            "id": "63ce896c3eb890570a22ae9a",
+            "name": "SENTIA",
+            "cost": 322
+          },
+          {
+            "id": "63ce896cf2797eeea370c31e",
+            "name": "SKYPLEX",
+            "cost": 121
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c0b8826b39769727b",
+            "name": "COGENTRY",
+            "cost": 263
+          },
+          {
+            "id": "63ce896c5e7b9500f87f8479",
+            "name": "CABLAM",
+            "cost": 222
+          },
+          {
+            "id": "63ce896ca0d89548ac1cef98",
+            "name": "IMAGINART",
+            "cost": 158
+          },
+          {
+            "id": "63ce896c35341489eb347278",
+            "name": "TERRAGO",
+            "cost": 277
+          },
+          {
+            "id": "63ce896c11e76019de767a5f",
+            "name": "KIOSK",
+            "cost": 128
+          },
+          {
+            "id": "63ce896c428137873d593a41",
+            "name": "ENJOLA",
+            "cost": 214
+          },
+          {
+            "id": "63ce896ca07f076ac3b56ec8",
+            "name": "STRALOY",
+            "cost": 225
+          },
+          {
+            "id": "63ce896cdcb4e3d959ec563e",
+            "name": "SPHERIX",
+            "cost": 317
+          },
+          {
+            "id": "63ce896cce3b062a661472b6",
+            "name": "BLUEGRAIN",
+            "cost": 130
+          },
+          {
+            "id": "63ce896c648b639a9e0d238a",
+            "name": "ESCENTA",
+            "cost": 156
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896c8f2d070174c5f436",
+      "index": 4,
+      "name": "Shelby Norton",
+      "email": "shelbynorton@escenta.com",
+      "phone": "+1 (998) 533-3318",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896c764ed844ba05b0da",
+            "name": "BIZMATIC",
+            "cost": 88
+          },
+          {
+            "id": "63ce896ca87252be20d7b6f4",
+            "name": "COMTOURS",
+            "cost": 202
+          },
+          {
+            "id": "63ce896cca82a2305721fe8f",
+            "name": "BICOL",
+            "cost": 303
+          },
+          {
+            "id": "63ce896c49cb85642a0cf427",
+            "name": "PHARMACON",
+            "cost": 135
+          },
+          {
+            "id": "63ce896c72b9654f0f152619",
+            "name": "ELENTRIX",
+            "cost": 346
+          },
+          {
+            "id": "63ce896ce0231e95b9494429",
+            "name": "ANIVET",
+            "cost": 66
+          },
+          {
+            "id": "63ce896c795b40fef8a2309d",
+            "name": "AQUAMATE",
+            "cost": 222
+          },
+          {
+            "id": "63ce896c2ec5970314309435",
+            "name": "QOT",
+            "cost": 321
+          },
+          {
+            "id": "63ce896c23bbf99033a468f6",
+            "name": "KATAKANA",
+            "cost": 133
+          },
+          {
+            "id": "63ce896cb43567ce8c047017",
+            "name": "NEPTIDE",
+            "cost": 225
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896c7e095768c265345a",
+            "name": "POSHOME",
+            "cost": 283
+          },
+          {
+            "id": "63ce896ceaaf73b4c2b9b871",
+            "name": "ACIUM",
+            "cost": 251
+          },
+          {
+            "id": "63ce896cebd8e74d9e5566a6",
+            "name": "COMBOGENE",
+            "cost": 303
+          },
+          {
+            "id": "63ce896c87279f43a58482e0",
+            "name": "ZENTIA",
+            "cost": 151
+          },
+          {
+            "id": "63ce896cab042c1b0412a4c3",
+            "name": "SUSTENZA",
+            "cost": 356
+          },
+          {
+            "id": "63ce896c81b0845f0d8015e1",
+            "name": "PARLEYNET",
+            "cost": 73
+          },
+          {
+            "id": "63ce896c5b896389d13a578b",
+            "name": "XINWARE",
+            "cost": 350
+          },
+          {
+            "id": "63ce896cd2843a90b60d0162",
+            "name": "NORSUP",
+            "cost": 368
+          },
+          {
+            "id": "63ce896c794990c938a4db91",
+            "name": "EXERTA",
+            "cost": 353
+          },
+          {
+            "id": "63ce896c747990b4b3ff7a15",
+            "name": "ELEMANTRA",
+            "cost": 229
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896cef1f972eac376e2b",
+            "name": "LIQUIDOC",
+            "cost": 285
+          },
+          {
+            "id": "63ce896cdcaab393f0da2215",
+            "name": "MULTIFLEX",
+            "cost": 246
+          },
+          {
+            "id": "63ce896cd4fc780e5d7c0906",
+            "name": "BEDDER",
+            "cost": 79
+          },
+          {
+            "id": "63ce896cdee0edf85d9c7aed",
+            "name": "ACCRUEX",
+            "cost": 216
+          },
+          {
+            "id": "63ce896cf8f6b98106e32561",
+            "name": "COMTOUR",
+            "cost": 102
+          },
+          {
+            "id": "63ce896c3436cb5aa2a32db2",
+            "name": "ZIPAK",
+            "cost": 103
+          },
+          {
+            "id": "63ce896c5ec723cb39fce130",
+            "name": "VORTEXACO",
+            "cost": 235
+          },
+          {
+            "id": "63ce896c34d9a4fdb07d657f",
+            "name": "CENTREXIN",
+            "cost": 170
+          },
+          {
+            "id": "63ce896cc92ffe41014c0bdb",
+            "name": "UNIA",
+            "cost": 70
+          },
+          {
+            "id": "63ce896ca5a99ca9ce63d364",
+            "name": "MINGA",
+            "cost": 333
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896cc7998fda9a70c936",
+      "index": 5,
+      "name": "Barnett Jarvis",
+      "email": "barnettjarvis@minga.com",
+      "phone": "+1 (997) 555-3873",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896c9cbe676b470ed196",
+            "name": "EWAVES",
+            "cost": 108
+          },
+          {
+            "id": "63ce896ce54ed691fbc10950",
+            "name": "ISOLOGICA",
+            "cost": 188
+          },
+          {
+            "id": "63ce896c6ecc63060a8c3fae",
+            "name": "EXTREMO",
+            "cost": 313
+          },
+          {
+            "id": "63ce896cc0d4fa5f38f597eb",
+            "name": "ORONOKO",
+            "cost": 107
+          },
+          {
+            "id": "63ce896c79f54f4c9cf87f4f",
+            "name": "GEEKETRON",
+            "cost": 45
+          },
+          {
+            "id": "63ce896c31533b0881c469a1",
+            "name": "ZAGGLE",
+            "cost": 89
+          },
+          {
+            "id": "63ce896cdd5dffdcb5024e02",
+            "name": "ARTIQ",
+            "cost": 152
+          },
+          {
+            "id": "63ce896cf36ca1c9fe19e7f8",
+            "name": "ORBEAN",
+            "cost": 246
+          },
+          {
+            "id": "63ce896ce76e3490d9fd7760",
+            "name": "MAGNEMO",
+            "cost": 256
+          },
+          {
+            "id": "63ce896c9e0d5ea2c43c595c",
+            "name": "YURTURE",
+            "cost": 205
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896cd27169dee93eba48",
+            "name": "QUIZKA",
+            "cost": 193
+          },
+          {
+            "id": "63ce896c7c2083d97c364e1a",
+            "name": "INSECTUS",
+            "cost": 37
+          },
+          {
+            "id": "63ce896ce70b3f94c4d66ac6",
+            "name": "TERASCAPE",
+            "cost": 151
+          },
+          {
+            "id": "63ce896c4019b46edb33bf0e",
+            "name": "POLARAX",
+            "cost": 179
+          },
+          {
+            "id": "63ce896c51810ccbd5c70e55",
+            "name": "NEWCUBE",
+            "cost": 384
+          },
+          {
+            "id": "63ce896c6b5cbca828bef6f8",
+            "name": "QUANTASIS",
+            "cost": 355
+          },
+          {
+            "id": "63ce896c0933541fba8872ff",
+            "name": "GOKO",
+            "cost": 65
+          },
+          {
+            "id": "63ce896c9b23815027102259",
+            "name": "KEGULAR",
+            "cost": 396
+          },
+          {
+            "id": "63ce896ccd76d9940af1f719",
+            "name": "CRUSTATIA",
+            "cost": 110
+          },
+          {
+            "id": "63ce896ca2303aa33f8dbe6d",
+            "name": "COMFIRM",
+            "cost": 259
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c414ee4c5d567cfe3",
+            "name": "CENTREGY",
+            "cost": 361
+          },
+          {
+            "id": "63ce896c0e9a3860a5c348dd",
+            "name": "BLURRYBUS",
+            "cost": 241
+          },
+          {
+            "id": "63ce896c414893958b8f66e4",
+            "name": "COMBOGEN",
+            "cost": 361
+          },
+          {
+            "id": "63ce896cec69c41eca869584",
+            "name": "ZOARERE",
+            "cost": 152
+          },
+          {
+            "id": "63ce896c91eda2516659a882",
+            "name": "COMBOT",
+            "cost": 231
+          },
+          {
+            "id": "63ce896c1caa2a27bf38a182",
+            "name": "URBANSHEE",
+            "cost": 193
+          },
+          {
+            "id": "63ce896cf499c9ada49acc41",
+            "name": "MONDICIL",
+            "cost": 140
+          },
+          {
+            "id": "63ce896c48264c914315ceee",
+            "name": "BEDLAM",
+            "cost": 20
+          },
+          {
+            "id": "63ce896cf3f201171ab3e2da",
+            "name": "NETPLODE",
+            "cost": 304
+          },
+          {
+            "id": "63ce896ca1e8f4e37b3f6af6",
+            "name": "TRIBALOG",
+            "cost": 161
+          }
+        ]
+      }
+    },
+    {
+      "_id": "63ce896cb6b407dfc496b415",
+      "index": 6,
+      "name": "England Nunez",
+      "email": "englandnunez@tribalog.com",
+      "phone": "+1 (883) 536-3810",
+      "purchases": {
+        "jan": [
+          {
+            "id": "63ce896c4a7dd87625b1a3ba",
+            "name": "TROPOLIS",
+            "cost": 261
+          },
+          {
+            "id": "63ce896c82d2e2de60bf8c7c",
+            "name": "APPLIDEC",
+            "cost": 200
+          },
+          {
+            "id": "63ce896c37c680f6833d5b64",
+            "name": "SYNKGEN",
+            "cost": 234
+          },
+          {
+            "id": "63ce896c9b4633bc4b73d28e",
+            "name": "EXODOC",
+            "cost": 22
+          },
+          {
+            "id": "63ce896c521bf9cd1ace6730",
+            "name": "HOMELUX",
+            "cost": 28
+          },
+          {
+            "id": "63ce896c4b16f219ba98d91c",
+            "name": "ISOSURE",
+            "cost": 150
+          },
+          {
+            "id": "63ce896cbc117c367c37a765",
+            "name": "AQUOAVO",
+            "cost": 290
+          },
+          {
+            "id": "63ce896c0c20c704df200af5",
+            "name": "LUNCHPAD",
+            "cost": 23
+          },
+          {
+            "id": "63ce896c3691d6df68e1b4b8",
+            "name": "IDETICA",
+            "cost": 56
+          },
+          {
+            "id": "63ce896c5aeef0058d86a59f",
+            "name": "DIGIGEN",
+            "cost": 78
+          }
+        ],
+        "feb": [
+          {
+            "id": "63ce896c4ea93f970eed8b2b",
+            "name": "EYEWAX",
+            "cost": 395
+          },
+          {
+            "id": "63ce896c3520a2386fdb5ac2",
+            "name": "CIRCUM",
+            "cost": 205
+          },
+          {
+            "id": "63ce896c66ac9ed594a67f49",
+            "name": "ZIZZLE",
+            "cost": 23
+          },
+          {
+            "id": "63ce896cd6c97792a25747e3",
+            "name": "EMTRAK",
+            "cost": 41
+          },
+          {
+            "id": "63ce896cc469a81c319361b3",
+            "name": "SLOFAST",
+            "cost": 281
+          },
+          {
+            "id": "63ce896ca90d2f3f287cbc68",
+            "name": "ROCKABYE",
+            "cost": 332
+          },
+          {
+            "id": "63ce896c871d597d02fc7e9a",
+            "name": "ECRAZE",
+            "cost": 308
+          },
+          {
+            "id": "63ce896c13a47845540f35b6",
+            "name": "ZEDALIS",
+            "cost": 205
+          },
+          {
+            "id": "63ce896c2f9e1d047488b8d9",
+            "name": "ROTODYNE",
+            "cost": 27
+          },
+          {
+            "id": "63ce896c53330905956e77e3",
+            "name": "QUARMONY",
+            "cost": 114
+          }
+        ],
+        "mar": [
+          {
+            "id": "63ce896c956c31e46c38c032",
+            "name": "UPLINX",
+            "cost": 195
+          },
+          {
+            "id": "63ce896c9435d4466371dd03",
+            "name": "EMOLTRA",
+            "cost": 300
+          },
+          {
+            "id": "63ce896c531446a0320a613b",
+            "name": "MYOPIUM",
+            "cost": 319
+          },
+          {
+            "id": "63ce896ce9e61f097e1a7a3f",
+            "name": "CINCYR",
+            "cost": 274
+          },
+          {
+            "id": "63ce896c3d06e4818850f45c",
+            "name": "UBERLUX",
+            "cost": 80
+          },
+          {
+            "id": "63ce896cf3259d85582096bb",
+            "name": "EXOSWITCH",
+            "cost": 155
+          },
+          {
+            "id": "63ce896cfbe160afc8357819",
+            "name": "SYNTAC",
+            "cost": 121
+          },
+          {
+            "id": "63ce896c1beb6bb26a175bdd",
+            "name": "XTH",
+            "cost": 117
+          },
+          {
+            "id": "63ce896cb109f2b57d5cbd25",
+            "name": "EXOSIS",
+            "cost": 210
+          },
+          {
+            "id": "63ce896c61a0433a4ece9620",
+            "name": "ORGANICA",
+            "cost": 166
+          }
+        ]
+      }
+    }
+  ]
